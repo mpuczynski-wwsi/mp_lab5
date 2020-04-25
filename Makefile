@@ -1,2 +1,2 @@
 run: 
-	g++ -o lab4 lab4.cpp && ./lab4
+	g++ -o lab5 lab5.cpp && ./lab5
